@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(50, 50, 50);
+    color: white;
+}
+
+h1{
+    background-color: purple;
+    border-radius: 16px;
+    padding: 5px;
+    font-size: x-large;
+}
+
+.field{
+    background-color: rgb(23, 22, 22);
+    border-radius: 15px;
+    width: 70%;
+
+    margin: auto;
+    padding: 10px;
+    
+}
+
+.form{
+    color: rgb(106, 196, 232);
+    /* background-color: blue; */
+    font-weight: bold;
+}
+
+.name{
+    border-radius: 8px;
+    padding: 5px;
+    font-weight: bold;
+}
+.input-txt{
+    border-radius: 8px;
+    padding: 5px;
+    font-weight: bold;
+}
+.submit{
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+    font-weight: bold;
+}
+.reset{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding: 8px;
+    font-weight: bold;
+}
